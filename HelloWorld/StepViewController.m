@@ -17,8 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"Bye branch2");
-     NSLog(@"delete branch3");
+     NSLog(@"Bye branch1");
     
     
 	// Do any additional setup after loading the view, typically from a nib.
