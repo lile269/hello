@@ -11,5 +11,6 @@
 @interface StepAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (nonatomic) int sum; 
 
 @end
