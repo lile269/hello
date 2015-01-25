@@ -11,6 +11,5 @@
 @interface StepViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet UIButton *doBtnHide;
-@property (weak, nonatomic) IBOutlet UILabel *lBlhelloworld;
 
 @end
